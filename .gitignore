@@ -1,0 +1,13 @@
+# IDE files
+.vscode
+
+# raw data from sources
+*.zip
+*.rar
+
+# big files
+./specdata/household_power_consumption_data/
+
+# r files
+.RData
+.Rhistory
